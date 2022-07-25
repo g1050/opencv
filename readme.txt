@@ -6,3 +6,4 @@ line 5
 line 6
 4th modify
 creat a new branch dev
+checkout back to master
